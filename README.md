@@ -9,4 +9,4 @@ Langkah langkah pembuatannya adalah sebagai berikut :
    File ini berfungsi agar nginx dapat membaca folder index tempat file index.php berada.
 4. Untuk menjalankan aplikasi ini buka localhost:8080 pada browser
 
-Untuk gambar saat menjalankan aplikasi dapat dilihat pada folder php with docker compose
+Untuk gambar saat menjalankan aplikasi dapat dilihat pada folder "php with docker compose"
